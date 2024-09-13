@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeePaycheckAPI", "EmployeePaycheckAPI.csproj", "{88CE5525-9856-404F-8C0E-4276F1669650}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeePaycheckAPI.Tests", "..\EmployeePaycheckAPI.Tests\EmployeePaycheckAPI.Tests.csproj", "{39332A7B-CFCE-4A46-8884-CB4EA5E378C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88CE5525-9856-404F-8C0E-4276F1669650}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88CE5525-9856-404F-8C0E-4276F1669650}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88CE5525-9856-404F-8C0E-4276F1669650}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88CE5525-9856-404F-8C0E-4276F1669650}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39332A7B-CFCE-4A46-8884-CB4EA5E378C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39332A7B-CFCE-4A46-8884-CB4EA5E378C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39332A7B-CFCE-4A46-8884-CB4EA5E378C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39332A7B-CFCE-4A46-8884-CB4EA5E378C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F63DC0A1-9681-47D8-8F9A-EDF725F7F533}
+	EndGlobalSection
+EndGlobal
